@@ -1,11 +1,19 @@
-## Hi there 👋
+## Mayank is Here 👋
+
+🌱 I’m currently learning BAMS at Parul University,Vadodara IN
+
+Born in 2k , graduating in 2025.
+
+I am Passionate in Learning ABout Writing and Deploying Softwares that Aims for Better Healthcare.
+
+
 
 <!--
 **levenzystu/levenzystu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+ 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
